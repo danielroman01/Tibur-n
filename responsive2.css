@@ -1,0 +1,1110 @@
+@media (max-width:1250px){
+
+    .wrap{
+        width: 90%;
+        margin: 0px auto; 
+    }
+
+    #banner h1{
+        width: 100%;
+        font-size: 35px;
+        text-align: center;
+        margin: inherit;
+    }
+
+    .card{
+        width: %;
+        margin: 1.45%;
+        margin-left: 185px;
+    }
+
+    .cardn p{
+        display: block;
+        width: 90%;
+        margin: 0 auto;
+        text-align: center;
+    }
+
+
+    #articles{
+        width: 65%;
+    }
+
+    #articles article{
+        width: 97%;
+    }
+
+    #articles .data{
+        margin: -38px;
+        margin-right: -18px;
+    }
+
+    #a-001{
+        margin-left: 253px;
+    }
+
+    #img-1{
+        margin-left: 23px;
+        width: 615px;
+    }
+
+    #a-010{
+            margin-left: 281px;
+    }
+
+    #img-2{
+        width: 615px;
+        margin-left: 22px;
+    }
+
+    #a-012{
+        margin-left: 218px;
+    }
+
+    #img-3{
+        width: 614px;
+        margin-left: 23px;
+    }
+
+    #img-4{
+        width: 623px;
+        margin-left: 20px;
+    }
+
+    #img-5{
+        margin-left: 90px;
+    }
+
+    #video-1{
+        width: 615px;
+        margin-left: 25px;
+    }
+
+    .card-music{
+        margin-left: 50px;
+    }
+
+    #sub-tittle{
+        margin-left: 160px;
+    }
+
+    #sub-tittle2{
+        margin-left: 215px;
+    }
+
+    #sub-tittle3{
+        margin-left: 112px;
+    }
+
+    #sub{
+        margin-left: 244px;
+    }
+
+    #sub-tittle4{
+        margin-left: 10px;
+        font-size: 37px;
+    }
+
+    #video-0{
+        margin-left: 20px;
+    }
+
+    #sub-2{
+        margin-left: 235px;
+    }
+
+    #sub01{
+        margin-left: 262px;
+    }
+
+    #sub005{
+        margin-left: 132px;
+    }
+
+    #sub006{
+        margin-left: 270px;
+    }
+
+    #sub003{
+        margin-left: 110px;
+    }
+
+    #sub004{
+        margin-left: 267px;
+    }
+
+    #sub-tittle02{
+        font-size: 36px;
+    }
+
+    #sub-tittle03{
+        margin-left: 102px;
+    }
+
+    #video-01{
+        margin-left: 24px;
+    }
+
+    #footer .wrap > div{
+        width: 24%;
+    }
+
+    #footer #browsers img{
+        width: 14%;
+    }
+
+    #footer h5{
+        font-size: 30px;
+    }
+ }
+
+ @media (max-width: 1080px){
+     .cad .category{
+         font-size: 17px;
+     }
+
+     .cad .description{
+        font-size: 14px;
+    }
+    
+    #articles{
+        width: 61%;
+    }
+
+    .card-music{
+        margin-left: 245px;
+    }
+
+    #sub-tittle{
+        margin-left: 122px;
+    }
+
+    #sub-tittle2{
+        margin-left: 164px;
+    }
+
+    #sub-tittle3{
+        margin-left: 50px;
+    }
+
+    #sub-tittle4{
+        margin-left: 5px;
+        font-size: 32px;
+    }
+
+    #sub{
+        margin-left: 180px;
+    }
+
+    #video-0{
+        width: 600px;
+    }
+
+    #sub-2{
+        margin-left: 177px;
+    }
+
+    #video-1{
+        width: 520px;
+        margin-left: 17px;
+    }
+
+    #sub01{
+        margin-left: 215px;
+    }
+
+    #sub005{
+        margin-left: 68px;
+    }
+
+    #sub006{
+        margin-left: 205px;
+    }
+
+    #sub003{
+        margin-left: 51px;
+    }
+
+    #sub004{
+        margin-left: 207px;
+    }
+
+    #sub-tittle02{
+        font-size: 26px;
+    }
+
+    #sub-tittle03{
+        margin-left: 41px;
+    }
+
+    #video-01{
+        width: 595px;
+    }
+
+    #sub-tittle02 {
+    font-size: 31px;
+    }
+
+    #sub-tittle04{
+        margin-left: 130px;
+    }
+
+    #a-001{
+        margin-left: 195px;
+    }
+
+    #a-010{
+        margin-left: 195px;
+    }
+
+    #a-012{
+        margin-left: 150px;
+    }
+
+    #img-1{
+        width: 505px;
+        margin-left: 24px;
+    }
+
+    #img-2{
+        width: 510px;
+    }
+
+    #img-3{
+        width: 508px;
+    }
+
+    #img-4{
+        width: 515px;
+    }
+
+    #img-5 {
+        margin-left: 30px;
+        width: 486px;
+    }
+} 
+
+@media (max-width: 970px){
+
+    .card{
+        margin-left: 140px;
+    }
+
+    #articles{
+        width: 59%;
+    }
+
+    #video-1{
+        width: 433px;
+    }
+
+    #img-1{
+        width: 433px;
+    }
+
+    #img-2 {
+       width: 435px;
+    }
+
+    #img-3 {
+       width: 435px;
+    }
+
+    #img-4 {
+       width: 439px;
+    }
+
+    #img-5 {
+       width: 425px;
+    }
+
+    #footer .wrap > div{
+        width: 26%;
+        margin: 20px;
+    }
+
+    #footer h5{
+        font-size: 22px;
+    }
+}
+
+@media (max-width: 925px){
+
+    #banner h1{
+        margin-top: 23px;
+    }
+
+    #articles{
+        width: 65%;
+    }
+
+    #lateral{
+        width: 25%;
+    }
+
+    #lateral input[type="text"]{
+        width: 78%;
+    }
+
+    .aside-box{
+        width: 95%;
+        min-height: 140px;
+        height: auto;
+        padding-bottom: 10px;
+    }
+
+    #login a{
+        margin-top: 10px;
+        margin-bottom: 10px;
+    }
+
+    #login input[type="email"],
+    #login input[type="password"]{
+        width: 65%;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    #login #user,
+    #login #password{
+        margin-left: 24px;
+    }
+
+    #login input[type="submit"],
+    #login input[type="buttom"],
+    #login input[type="reset"],
+    #login input{
+        margin-bottom: 0px;
+    }
+
+    #login input[type="reset"]{
+        display: none;
+    }
+
+}
+
+@media (max-width: 899px){
+    #lateral h3{
+        font-size: 20px;
+    } 
+}
+
+@media (max-width: 799px){
+    #banner h1{
+        font-size: 29px;
+    } 
+
+    .card {
+        height: auto;
+    }
+
+    .card .category{
+        font-size: 15px;
+        margin-top: -23px;
+    }
+
+    .card .description{
+        display: none;
+    }
+
+    #footer img {
+        margin-bottom: 15px;
+        max-width: 100%;
+    }
+}
+
+@media (max-width: 724px){
+
+    #menu ul li a{
+        margin-left: -12px;
+        margin-right: -10px;
+    }
+
+    hr{
+        margin-left: auto;
+        width: 0px;
+    }
+
+    #header{
+        width: 100%;
+        height:  120px;
+        padding-top: 10px;
+    }
+
+    .card .category{
+        font-size: 29px;
+        margin-top: 15px;
+    }
+
+    .card {
+         margin-left: 90px;
+    }
+
+    #logo {
+        float: none;
+        width: 280px;
+        margin: 0px auto;
+    }
+
+    #menu {
+        clear: both;
+        float: none;
+        width: 342px;
+        margin: 0px auto;
+    }
+
+    .menu-vertical{
+        width: 100px;
+        margin-left: -41px;
+        margin-top: -13px;
+    }
+
+    #img-1 {
+        width: 340px;
+    }
+
+    #img-2 {
+        width: 345px;
+    }
+
+    #img-3 {
+       width: 350px;
+    }
+
+    #img-4 {
+       width: 340px;
+    } 
+
+    #img-5 {
+       width: 330px;
+    }
+
+    #lateral input[type="text"] {
+        width: 70%;
+    }
+}
+
+
+@media (max-width: 660px){
+    #banner h1{
+        font-size: 20px;
+    }
+
+    #banner h1 {
+        font-size: 220%;
+        margin-top: 23px;
+    }
+
+    #lateral{
+        float: none;
+        width: 100%;
+        margin: 0px auto;
+        min-height: auto;
+        margin-top: 20px;
+    }
+
+    #lateral input[type="text"] {
+        width: 93%;
+    }
+
+    login input[type="email"], #login input[type="password"] {
+        width: 90%;
+    }
+    #articles{
+        float: none;
+        width: 100%;
+        margin: 0px auto;
+        min-height: auto;
+    }
+
+    #articles h2{
+        font-size: 20px;
+    }
+
+    #img-1 {
+      width: 353px;
+      margin-left: 95px;
+    }
+
+    #img-2 {
+      width: 353px;
+      margin-left: 95px;
+    }
+
+    #img-3 {
+      width: 353px;
+      margin-left: 95px;
+    }
+
+    #img-4 {
+       width: 353px;
+       margin-left: 95px;
+    }
+
+    #img-5 {
+       width: 353px;
+       margin-left: 95px;
+   }
+
+    #footer{
+        height: auto;
+    }
+
+    #footer .wrap > div{
+        width: 100%;
+        margin: 0px auto;
+        margin-top: 20px;
+    }
+
+    #footer h5{
+        font-size: 25px;
+    }
+
+}
+
+@media (max-width: 475px){ 
+    #logo{
+        float: left;
+    }
+
+    #header{
+        width: 100%;
+        height:  275px;
+        padding-top: 10px;
+    }
+
+    #menu{
+        clear: both;
+        float: none;
+        width: 100%;
+        margin: 0px auto;
+    }
+
+    #menu ul li{
+        width: 100%;
+        line-height: 52px;
+        margin-right: 30px;
+    }
+
+
+    #menu ul li a{
+        width: 100%;
+        text-align: initial;
+        line-height: 52px;
+    }
+
+    #menu ul li a:hover {
+        color: #b20406;
+        transform: scale(1, 1);
+    }
+
+    #menu-vertical{
+        width: 110px;
+        margin-left:-32px;
+        margin-top: -15px;
+    }
+
+    hr {
+        margin-left: inherit;
+    }
+
+    #banner{
+        height: 85px;
+    }
+
+    #banner h1{
+        font-size: 20px;
+        margin-top: 21px;
+    }
+
+    #banner #banner-salsa{
+        font-size: 38px;
+        margin-top: 12px;
+    }
+
+    #banner #banner-01{
+    font-size: 33px;
+    margin-top: 15px;
+    } 
+
+    #sub-tittle{
+        margin-left: 39px;
+    }
+
+    #articles-2 article{
+        width: 96%;
+        margin-left: 8px;
+    }
+
+    #sub-tittle2{
+        margin-left: 90px;
+    }
+
+    #sub-tittle3{
+        margin-left: 6px;
+        font-size: 33px;
+    }
+
+    #sub-tittle4{
+        margin-left: 0px;
+    }
+
+    #sub{
+        margin-left: 63px;
+        font-size: 40px;
+    }
+
+    #video-0{
+        width: 388px;
+        margin-left: 0px;
+    }
+
+    #sub-2{
+        margin-left: 43px;
+    }
+
+    #sub005{
+        margin-left: 8px;
+        font-size: 36px;
+    }
+
+    #sub006{
+        margin-left: 83px;
+    }
+
+    #sub003{
+        margin-left: 13px;
+        font-size: 27px;
+    }
+
+    #sub004{
+        margin-left: 95px;
+    }
+    
+    #lateral input[type="text"] {
+        width: 85%;
+    }
+
+    #login input[type="email"], #login input[type="password"] {
+        width: 82%;
+    }
+    .card .icon{
+        font-size: 35px;
+    }
+    
+    .card:hover .icon{
+        font-size: 35px;
+    }
+    .card .category{
+        font-size: 25px;
+        margin-top: 20px;
+    }
+
+    .card {
+        width: 23%;
+        margin-left: 32px;
+    }
+
+    .card-music{
+        width: 345px;
+        margin-left: 40px;
+        margin-top: 30px;
+    }
+
+    #d-1{
+        height: 65px;
+    }
+
+    #d-2{
+        height: 65px;
+    }
+
+    #d-3{
+        height: 65px;
+    }
+
+    #d-4{
+        height: 65px;
+    }
+
+    #d-5{
+        height: 65px;
+    }
+
+    #d-6{
+        height: 65px;
+    }
+
+    #d-7{
+        height: 65px;
+    }
+
+    #d-8{
+        height: 65px;
+    }
+
+    #d-9{
+        height: 65px;
+    }
+
+    #articles .data{
+        float: none;
+        margin: -10px;
+        border-radius: 0px 0px 0px 0px;
+    }
+
+     #articles #res{
+        font-size: 19px;
+        line-height: 80px;
+    }
+
+    #articles article h4 {
+        font-size: 23px;
+        text-align: center;
+        margin-top: 20px;
+    }
+
+       #video-1 {
+        width: 391px;
+        margin-left: 0px;
+        margin-top: 40px;
+    }
+
+    #a-001 {
+    text-decoration: none;
+    color: black;
+    font-size: 40px;
+    margin-left: 120px;
+    }
+
+    #img-1 {
+        width: 353px;
+        margin-left: 18px;
+    }
+
+    #a-010 {
+    text-decoration: none;
+    color: black;
+    font-size: 40px;
+    margin-left: 140px;
+    }
+
+    #img-2 {
+         width: 332px;
+         margin-left: 34px;
+    }
+
+    #a-012 {
+    text-decoration: none;
+    color: black;
+    font-size: 40px;
+    margin-left: 80px; 
+    }
+
+    #img-3 {
+         width: 353px;
+         margin-left: 26px;
+    }
+
+    #img-4 {
+         width: 353px;
+         margin-left: 22px;
+    }
+
+    #img-5 {
+        width: 353px;
+        margin-left: 21px;
+    }
+
+    .card {
+    width: 23%;
+    margin-left: 36px;
+    margin-right: -4px;
+    }
+
+    #img-1 {
+        width: 255px;
+        margin-left: 69px;
+    }
+
+    #img-2 {
+        width: 240px;
+        margin-left: 77px;
+    }
+
+    #img-3 {
+        width: 240px;
+        margin-left: 75px;
+    }
+
+    #img-4 {
+        width: 240px;
+        margin-left: 75px;
+    }
+
+    #img-5 {
+        width: 283px;
+        margin-left: 59px;
+    }
+
+    #video-1 {
+    width: 387px;
+    margin-left: 3px;
+    margin-top: 40px;
+    }
+
+    #h2-v {
+    right: 33px;
+    margin-top: 152px;
+    font-size: 15px;
+}
+
+#h3-s {
+    right: 22px;
+    margin-top: 152px;
+    font-size: 15px;
+}
+
+#h4-c{
+
+    right: 8px;
+    margin-top: 152px;
+    font-size: 15px;
+}
+
+#h5-e{
+
+    right: 30px;
+    margin-top: 152px;
+    font-size: 15px;
+}
+
+    .card-music {
+    width: 161px;
+    margin-left: 29px;
+    margin-top: 30px;
+    height: 190px;
+}
+
+#img-v {
+    width: 236px;
+    height: 150px;
+}
+
+#img-s {
+    width: 161px;
+    height: 150px;
+}
+
+#img-c {
+    width: 295px;
+    height: 150px;
+}
+
+#img-e {
+    width: 295px;
+    height: 150px;
+}
+
+#sub-tittle{
+    margin-left: 5px;
+    font-size: 31px;
+}
+
+#sub-tittle2{
+    margin-left: 20px;
+}
+
+#sub-tittle3 {
+    margin-left: 3px;
+    font-size: 22px;
+}
+
+#sub {
+    margin-left: 5px;
+    font-size: 36px;
+}
+
+#video-0 {
+    width: 256px;
+    margin-left: 0px;
+}
+
+#sub-2 {
+    margin-left: 9px;
+    font-size: 30px;
+}
+
+#sub01 {
+    margin-left: 65px;
+}
+
+#sub005 {
+    margin-left: 5px;
+    font-size: 23px;
+}
+
+#sub006 {
+    margin-left: 7px;
+}
+
+#sub003 {
+    margin-left: 7px;
+    font-size: 18px;
+}
+
+#sub004 {
+    margin-left: 18px;
+}
+
+#sub-tittle02 {
+    font-size: 24px;
+    margin-left: 0px;
+}
+
+#sub-tittle03 {
+    margin-left: 5px;
+    font-size: 33px;
+}
+
+#video-01 {
+    width: 263px;
+    margin-left: -6px;
+}
+
+#sub-tittle04 {
+    margin-left: 1px;
+    font-size: 36px;
+}
+
+#banner h1 {
+    font-size: 44px;
+    margin-top: 9px;
+}
+
+
+@media (max-width: 320px){
+
+    #banner #banner-h1{
+       font-size: 22px;
+       width: 280px;
+       margin-top: 28px;
+    }
+
+    #banner h1 {
+      font-size: 29px;
+      margin-top: 15px;
+    }
+
+
+
+    #articles h2{
+        font-size: 22px;
+        margin-left: -1px;
+    }
+
+    #articles .data{
+        width: 293px;
+    }
+
+    #articles article{
+        margin-left: -6px;
+    }
+
+    .card {
+    margin-left: 88px;
+    font-size: 40px;
+    width: 100px;
+   }
+
+.card-music {
+    width: 161px;
+    margin-left: 61px;
+    margin-top: 30px;
+    height: 190px;
+}
+
+#articles .data {
+    width: 278px;
+}
+
+#articles article h4 {
+    font-size: 22px;
+    text-align: center;
+    margin-top: 20px;
+}
+
+#img-1 {
+    width: 255px;
+    margin-left: -2px; 
+}
+
+#img-2 {
+    width: 240px;
+    margin-left: 10px;
+}
+
+#img-3 {
+    width: 240px;
+    margin-left: 4px;
+}
+
+#img-4 {
+    width: 240px;
+    margin-left: 8px;
+}
+
+#img-5 {
+    width: 254px;
+    margin-left: 0px;
+}
+
+#video-1 {
+    width: 266px;
+    margin-left: -5px;
+    margin-top: 40px;
+}
+
+#a-001 {
+    text-decoration: none;
+    color: black;
+    font-size: 38px;
+    margin-left: 60px;
+}
+
+#articles #res {
+    font-size: 14px;
+    line-height: 80px;
+}
+
+#a-010 {
+    text-decoration: none;
+    color: black;
+    font-size: 40px;
+    margin-left: 75px;
+}
+
+#a-012 {
+    text-decoration: none;
+    color: black;
+    font-size: 39px;
+    margin-left: 3px;
+}
+
+#articles h2 {
+    font-size: 15px;
+    margin-left: -4px;
+}
+
+#articles h2 {
+    font-size: 22px;
+    margin-left: -4px;
+}
+
+#articles h2 {
+    font-size: 15px;
+}
+
+
+
+}
